@@ -1,0 +1,347 @@
+[{
+	"name": 4,
+	"children": [{
+		"name": "Rules",
+		"children": [{
+			"length": 4,
+			"children": [{
+				"size": 5,
+				"val": "p",
+				"name": "Low ratings"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Barry Pepper"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Romance"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "R"
+			}],
+			"name": "Rule 1",
+			"coverage": 1.936026936026936,
+			"accuracy": 95.65217391304348
+		}, {
+			"length": 1,
+			"children": [{
+				"size": 5,
+				"val": "a",
+				"name": "Jay Wolpert"
+			}],
+			"name": "Rule 2",
+			"coverage": 0.5892255892255892,
+			"accuracy": 85.71428571428571
+		}]
+	}]
+}, {
+	"name": 3,
+	"children": [{
+		"name": "Rules",
+		"children": [{
+			"length": 2,
+			"children": [{
+				"size": 5,
+				"val": "p",
+				"name": "Low ratings"
+			}, {
+				"size": 5,
+				"val": "p",
+				"name": "Very high votes"
+			}],
+			"name": "Rule 1",
+			"coverage": 0.8417508417508418,
+			"accuracy": 90.0
+		}]
+	}]
+}, {
+	"name": 8,
+	"children": [{
+		"name": "Rules",
+		"children": [{
+			"length": 8,
+			"children": [{
+				"size": 5,
+				"val": "a",
+				"name": "Low ratings"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "JRR Tolkien"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Jonathan Nolan"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Andrew Stanton"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "George Nolfi"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Holmes Osborne"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Javier Bardem"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Geoffrey Rush"
+			}],
+			"name": "Rule 1",
+			"coverage": 17.67676767676768,
+			"accuracy": 96.66666666666667
+		}]
+	}]
+}, {
+	"name": 9,
+	"children": [{
+		"name": "Rules",
+		"children": [{
+			"length": 1,
+			"children": [{
+				"size": 5,
+				"val": "a",
+				"name": "Jay Wolpert"
+			}],
+			"name": "Rule 2",
+			"coverage": 0.5892255892255892,
+			"accuracy": 85.71428571428571
+		}, {
+			"length": 0,
+			"children": [],
+			"name": "Rule 1",
+			"coverage": 0.25252525252525254,
+			"accuracy": 66.66666666666667
+		}]
+	}]
+}, {
+	"name": 5,
+	"children": [{
+		"name": "Rules",
+		"children": [{
+			"length": 2,
+			"children": [{
+				"size": 5,
+				"val": "a",
+				"name": "Jay Wolpert"
+			}, {
+				"size": 5,
+				"val": "p",
+				"name": "Alan B McElroy"
+			}],
+			"name": "Rule 3",
+			"coverage": 0.25252525252525254,
+			"accuracy": 100
+		}, {
+			"length": 20,
+			"children": [{
+				"size": 5,
+				"val": "a",
+				"name": "Jay Wolpert"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Ashlyn Sanchez"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Ben Roberts"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Brian Robbins"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Clea DuVall"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Colin Strause"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Daniel Chuba"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "David Garrett"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "David L Cunningham"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "David Sheffield"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Frank Miller"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Henry Simmons"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Judge Reinhold"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Kate Kondell"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Mark Mullin"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Nathaniel Parker"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Sam Shepard"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Sharon Stone"
+			}, {
+				"size": 5,
+				"val": "p",
+				"name": "Rich Wilkes"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "120 - 201 minutes"
+			}],
+			"name": "Rule 1",
+			"coverage": 0.16835016835016836,
+			"accuracy": 100
+		}, {
+			"length": 0,
+			"children": [],
+			"name": "Rule 2",
+			"coverage": 0.25252525252525254,
+			"accuracy": 66.66666666666667
+		}]
+	}]
+}, {
+	"name": 6,
+	"children": [{
+		"name": "Rules",
+		"children": [{
+			"length": 20,
+			"children": [{
+				"size": 5,
+				"val": "a",
+				"name": "Jay Wolpert"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Ashlyn Sanchez"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Ben Roberts"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Brian Robbins"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Clea DuVall"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Colin Strause"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Daniel Chuba"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "David Garrett"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "David L Cunningham"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "David Sheffield"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Frank Miller"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Henry Simmons"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Judge Reinhold"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Kate Kondell"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Mark Mullin"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Nathaniel Parker"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Sam Shepard"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "Sharon Stone"
+			}, {
+				"size": 5,
+				"val": "p",
+				"name": "Rich Wilkes"
+			}, {
+				"size": 5,
+				"val": "a",
+				"name": "120 - 201 minutes"
+			}],
+			"name": "Rule 1",
+			"coverage": 0.16835016835016836,
+			"accuracy": 100
+		}, {
+			"length": 0,
+			"children": [],
+			"name": "Rule 2",
+			"coverage": 0.25252525252525254,
+			"accuracy": 66.66666666666667
+		}]
+	}]
+}, {
+	"name": 7,
+	"children": [{
+		"name": "Rules",
+		"children": [{
+			"length": 0,
+			"children": [],
+			"name": "Rule 1",
+			"coverage": 0.25252525252525254,
+			"accuracy": 66.66666666666667
+		}]
+	}]
+}]
