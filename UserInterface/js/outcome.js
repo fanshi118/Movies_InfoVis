@@ -12,41 +12,7 @@ function renderOutcome(outcome) {
                      var pack = d3.layout.pack()
                     .size([diameter - 4, diameter - 4])
                     .value(function(d) { return d.size; });
-                    
-                    
-                 /*var legend1 = svg.append("g")
-                    .attr("class","legend")
-                    .attr("transform", "transform(20,20)");
-                legend1.append("circle")
-                    .attr("width", 18)
-                    .attr("height", 18)
-                    .style("fill", "#d62728")
-                    .style("fill-opacity", .8)
-                    .style("stroke", "black");
-                           
-                legend1.append("text")
-                        .attr("x",22)
-                        .attr("y",14)
-                        .attr("dy", ".60em")
-                        .text("Absent");
-                    
-                 var legend2 = svg.append("g")
-                    .attr("class","legend")
-                    .attr("transform", "transform(20,20)");
-                legend2.append("circle")
-                    .attr("width", 18)
-                    .attr("height", 18)
-                    .style("fill", "#d62728")
-                    .style("fill-opacity", .8)
-                    .style("stroke", "black");
-                           
-                legend2.append("text")
-                        .attr("x",22)
-                        .attr("y",4)
-                        .attr("dy", ".60em")
-                        .text("Present");*/
-                    
-                    
+                         
                     colorScale = ["#d62728","#2ca02c"];
                     // draw legend    
                     var legend = svg.selectAll(".legend")
